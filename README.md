@@ -2,7 +2,7 @@
 
 #### Initialization
 
-1. import db: import.sql
+-   import db from file: import.sql
 
 #### Run
 
