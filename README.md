@@ -2,7 +2,7 @@
 
 #### Initialization
 
-1. import db: import.sql
+-   import db from file: import.sql
 
 #### Run
 
@@ -17,7 +17,7 @@ Run frontend:
 
 ```
 cd ../Chess.Spa
-- npm run serve
+npm run serve
 ```
 
 #### Demo
