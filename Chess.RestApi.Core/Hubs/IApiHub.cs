@@ -1,6 +1,6 @@
 ﻿using Chess.RestApi.Data.Common;
 
-namespace Chess.RestApi.Core.Chubs
+namespace Chess.RestApi.Core.Hubs
 {
     public interface IApiHub : IScopedDependency
     {

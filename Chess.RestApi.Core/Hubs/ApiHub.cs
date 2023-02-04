@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.SignalR;
 
-namespace Chess.RestApi.Core.Chubs
+namespace Chess.RestApi.Core.Hubs
 {
     public class ApiHub : Hub, IApiHub
     {

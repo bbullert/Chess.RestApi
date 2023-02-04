@@ -1,6 +1,6 @@
 using AutoMapper;
 using Chess.RestApi.Api.Extensions;
-using Chess.RestApi.Core.Chubs;
+using Chess.RestApi.Core.Hubs;
 using Chess.RestApi.Data.Contexts;
 using Chess.RestApi.Data.Entities;
 using FluentValidation.AspNetCore;
